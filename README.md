@@ -1,4 +1,4 @@
-# NJUPT-connecting-network
+# NJUPT-login-network
 Only works for SSID NJUPT.
 # Usage
 ````shell
